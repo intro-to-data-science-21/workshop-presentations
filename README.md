@@ -1,4 +1,4 @@
-# Group presentations
+# Workshop presentations
 
 Please push your presentations to this repo as separate sub-directories, indicating the order that you presented, your name (one group member only), and a v. brief description, all separated by dashes. E.g.: `01-FirstnameLastname-Topic/`.
 
