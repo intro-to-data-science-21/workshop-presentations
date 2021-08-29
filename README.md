@@ -13,7 +13,7 @@ Topics will be randomly allocated to groups of 2 students. Both of you should co
 | Workshop | Topic | Resources | Presenter |
 |---------|-------|-----------|-----------|
 | 01 | XML and XPath with xml2 | [a](https://cran.r-project.org/web/packages/xml2/index.html), [b](http://www.r-datacollection.com/) |  | 
-| 02 | SelectorGadget | [a](https://selectorgadget.com/), [b](https://cran.r-project.org/web/packages/rvest/vignettes/selectorgadget.html) |  | 
+| 02 | Static web scraping with rvest and SelectorGadget | [a](https://github.com/tidyverse/rvest), [b](https://cran.r-project.org/web/packages/rvest/vignettes/selectorgadget.html) |  | 
 | 03 | RSelenium | [a](https://github.com/ropensci/RSelenium), [b](https://www.selenium.dev/) |  | 
 | 04 | Regular expressions with stringr | [a](http://www.r-datacollection.com/), [b](https://github.com/rstudio/cheatsheets/raw/master/regex.pdf) |  | 
 | 05 | String manipulation with stringr | [a](http://www.r-datacollection.com/), [b](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf) |  | 
