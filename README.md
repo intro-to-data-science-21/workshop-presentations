@@ -1,6 +1,6 @@
 # Workshop presentations
 
-Please push your presentations to this repo as separate sub-directories, indicating the order that you presented, your name (one group member only), and a v. brief description, all separated by dashes. E.g.: `01-FirstnameLastname-Topic/`.
+Please publish your presentation materials in a repo that you create in our workshop organization at https://github.com/intro-to-data-science-21-workshop. There's a naming convention for the repos, which should indicate the order that you presented, your name (one group member only), and a very brief description, all separated by dashes. E.g.: `01-FirstnameLastname-Topic/`.
 
 ## R Markdown
 
